@@ -1,0 +1,19 @@
+.buttons{
+  display: flex;
+  justify-content: center;
+  padding: 10px 20px;
+  column-gap: 20px;
+}
+
+button:hover{
+  background-color: black;
+  color: white;
+}
+
+p{
+  color: brown;
+  text-align: center;
+  font-size:40px;
+  font-weight: 800;
+}
+
